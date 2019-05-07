@@ -1,0 +1,10 @@
+C:\dev\repos\Extracoes\Extracoes\obj\Debug\Extracoes.csprojAssemblyReference.cache
+C:\dev\repos\Extracoes\Extracoes\obj\Debug\Extracoes.Properties.Resources.resources
+C:\dev\repos\Extracoes\Extracoes\obj\Debug\Extracoes.csproj.GenerateResource.cache
+C:\dev\repos\Extracoes\Extracoes\obj\Debug\Extracoes.csproj.CoreCompileInputs.cache
+C:\dev\repos\Extracoes\Extracoes\bin\Debug\Extracoes.exe.config
+C:\dev\repos\Extracoes\Extracoes\bin\Debug\Extracoes.exe
+C:\dev\repos\Extracoes\Extracoes\bin\Debug\Extracoes.pdb
+C:\dev\repos\Extracoes\Extracoes\obj\Debug\Extracoes.exe
+C:\dev\repos\Extracoes\Extracoes\obj\Debug\Extracoes.pdb
+C:\dev\repos\Extracoes\Extracoes\obj\Debug\Extracoes.ExtracaoCSV.resources

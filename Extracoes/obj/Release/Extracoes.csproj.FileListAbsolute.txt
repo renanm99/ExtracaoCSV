@@ -1,0 +1,9 @@
+C:\dev\repos\Extracoes\Extracoes\bin\Release\Extracoes.exe.config
+C:\dev\repos\Extracoes\Extracoes\bin\Release\Extracoes.exe
+C:\dev\repos\Extracoes\Extracoes\bin\Release\Extracoes.pdb
+C:\dev\repos\Extracoes\Extracoes\obj\Release\Extracoes.ExtracaoCSV.resources
+C:\dev\repos\Extracoes\Extracoes\obj\Release\Extracoes.Properties.Resources.resources
+C:\dev\repos\Extracoes\Extracoes\obj\Release\Extracoes.csproj.GenerateResource.cache
+C:\dev\repos\Extracoes\Extracoes\obj\Release\Extracoes.csproj.CoreCompileInputs.cache
+C:\dev\repos\Extracoes\Extracoes\obj\Release\Extracoes.exe
+C:\dev\repos\Extracoes\Extracoes\obj\Release\Extracoes.pdb
