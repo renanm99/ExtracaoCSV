@@ -24,7 +24,7 @@ namespace Extracoes
 
         public void GerarCSV()
         {
-            SqlConnection sqlConn = new SqlConnection("data source=srvlogp02; user id=prconsul;password=consulta; initial catalog=BDFICH; application name=SS");
+            SqlConnection sqlConn = new SqlConnection(<endpoint>);
             try
             {
                 sqlConn.Open();
